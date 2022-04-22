@@ -1,0 +1,94 @@
+.Contanier{
+    position: fixed;
+    width: 100%;
+    height: 75px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    transition: .3s ease-in;
+    overflow: hidden;
+    background-color: #00006d;
+}
+.Contanier-bg{
+    background-color: rgba(89, 90, 54, 0.664);
+    height: 50px;
+}
+.mano{
+    display: flex;
+    align-items: center;
+    max-width: 1240px;
+    margin: auto;
+    height: 100%;
+}
+.spo{
+    color: burlywood;
+}
+.end{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.navo{
+    display: flex;
+}
+.aoe2{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.aoe3{
+    margin-left: 20px;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.nav-wid{
+    font-size: 15px;
+    color: rgb(170, 104, 104);
+}
+.nav:hover{
+    color: yellow;
+}
+.start{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 23%;
+}
+.start-widith{
+    justify-content: flex-start;
+    font-size: 13px;
+}
+.lio{
+    list-style: none;
+    text-decoration: none;
+}
+.sss{
+    color: white;
+    text-decoration: none;
+}
+.btndone{
+    align-items: center;
+    font-size: 15px;
+    background-color: #00006d;
+    border: 2px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: .2s;
+    transition-duration: .2s;
+    transition-delay: .2s;
+}
+.btndone-bg{
+    background-color: red;
+    display: none;
+}
+.btndone:hover{
+    background-color: white;
+}
+.end2{    
+    width: 250px;
+    display: flex;
+    justify-content: end;}

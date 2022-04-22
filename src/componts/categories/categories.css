@@ -1,0 +1,44 @@
+.contanierr{
+    width: 100%;
+    height: 1080px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+}
+.imgb{
+    width: 250px;
+    height: 225px;
+}
+.contan2{
+    margin-top: 35px;
+}
+.height{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.boxx{
+    margin: 50px;
+}
+.text{
+    text-align: center;
+    margin-top: 10px
+}
+.tan{
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: white;
+    color: brown;
+}
+.ban{
+    margin-top: 25px;
+    font-size: 33px;
+    font-weight: bold;
+    position: absolute;
+}
